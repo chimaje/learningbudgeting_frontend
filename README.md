@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Figma Design
+This is the link to the design of this project. 
+Feel free to comment changes , improvements and suggestions of various components and pages
+[`LearningBudgetDesign`](https://www.figma.com/design/VXrFN6Pfm6hBWCjx5wH2mc/Budgeting-website?node-id=0-1&t=xwjzex379SnY6S7d-1)
+
+
 ## Getting Started
 
 First, run the development server:
